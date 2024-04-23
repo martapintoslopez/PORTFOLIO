@@ -29,7 +29,7 @@ Este repositorio alberga una colección diversa de proyectos realizados en Pytho
 
 - ### Natural Language Processing
 
-	- [Coursera Project]: Este proyecto de Procesamiento del Lenguaje Natural (NLP) se centra en la clasificación de cursos de Coursera en las categorías de ciencias y letras. Se realizó un Análisis Exploratorio de Datos (EDA) como parte del proceso inicial para después pasar a entrenar el modelo y ajustar los parámetros adecuados, logrando obtener una precisión de predicción del 94%. Actualmente, el enfoque se dirige hacia la implementación de un clasificador utilizando el algoritmo Naive Bayes. El proyecto incluye un archivo de requisitos 'requirements.txt' para gestionar las dependencias del entorno de desarrollo.
+	- [Coursera - NLP](): Este proyecto de Procesamiento del Lenguaje Natural (NLP) se centra en la clasificación de cursos de Coursera en las categorías de ciencias y letras. Se realizó un Análisis Exploratorio de Datos (EDA) como parte del proceso inicial para después pasar a entrenar el modelo y ajustar los parámetros adecuados, logrando obtener una precisión de predicción del 94%. Actualmente, el enfoque se dirige hacia la implementación de un clasificador utilizando el algoritmo Naive Bayes. El proyecto incluye un archivo de requisitos 'requirements.txt' para gestionar las dependencias del entorno de desarrollo.
 		
 		_HERRAMIENTAS: Python (Pandas, Numpy, Re, String, NLTK, Scikit-learn, Matplotlib)_
 
