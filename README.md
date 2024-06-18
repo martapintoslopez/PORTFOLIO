@@ -21,6 +21,10 @@ Este repositorio alberga una colección diversa de proyectos realizados en Pytho
 
 		_HERRAMIENTAS: Python (Pandas, Re, Requests), APIs, WebScraping (Selenium, BeautifulSoup), MySQL_
 
+	- [Universal_and_DisneyWorld_Incident_Data_2002-2022](https://github.com/martapintoslopez/Universal_and_DisneyWorld_Incident_Data_2002-2022): Este proyecto tuvo como objetivo analizar los incidentes ocurridos en los parques de atracciones de Universal y Disney World entre los años 2002 y 2022.
+
+   		_HERRAMIENTAS: Python (Pandas, Matplotlib, Seaborn_ 
+
 - ### Machine Learning
 
 	- [Currency Conversion Neural Network](https://github.com/martapintoslopez/currency_conversion_neural_network): El proyecto se centró en desarrollar una red neuronal capaz de realizar conversiones entre distintas divisas. Se llevó a cabo un proceso de recopilación de datos y una vez preparados, se procedió al diseño y entrenamiento de la red neuronal. Durante esta fase, se utilizó un enfoque de aprendizaje supervisado para ajustar iterativamente el modelo a los datos conocidos. Posteriormente, se realizaron pruebas para evaluar su rendimiento y precisión en la conversión de divisas, incluyendo la comparación con datos reales y la identificación de posibles áreas de mejora en la arquitectura del modelo.
